@@ -1,6 +1,6 @@
 name: oppo_push
 description: "Lightweight Flutter plugin for oppo push integration. Simplifies push notifications on oppo devices, supporting token registration, message receiving, and callback handling."
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/meetleev
 repository: https://github.com/meetleev/flutter_oppo_push
 topics:

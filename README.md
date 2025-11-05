@@ -18,9 +18,6 @@ oppo 推送API (vpush)
     await oppoPushPlugin.registerToken(
                             appKey: 'appKey',
                             appSecret: 'appSecret');
-    final regId = resp.token;
-
-
     void onPushEvent(PlatformEvent event) {
         if (event is RegisterEvent) {
           String eventMsg =
